@@ -1,5 +1,3 @@
-import React from "react";
-
 export const Hero = () => {
   return (
     <section className="bg-slate-200 min-h-screen py-16 px-4">
