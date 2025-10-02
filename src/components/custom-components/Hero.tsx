@@ -1,7 +1,7 @@
 export const Hero = () => {
   return (
-    <section className="bg-slate-200 min-h-screen py-16 px-4">
-      <div className="container mx-auto flex flex-col items-center text-center">
+    <section className=" bg-slate-200 min-h-screen">
+      <div className="container mx-auto py-16 px-4 flex flex-col items-center text-center">
         {/* Main Heading */}
         <h1 className="text-2xl sm:text-3xl md:text-4xl xl:text-[3rem] leading-14 font-sans font-semibold text-gray-800 mb-4">
           Staying on top of your bills <br /> never been this easy

@@ -3,6 +3,7 @@ import { Hero } from "@/components/custom-components/Hero";
 import Navbar from "@/components/custom-components/Navbar";
 import { Feature } from "@/components/custom-components/Feature";
 import { Solutions } from "@/components/custom-components/Solutions";
+import { VideoScreen } from "@/components/custom-components/VideoScreen";
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
           <Hero />
           <Feature />
           <Solutions />
+          <VideoScreen />
         </main>
       </div>
     </>
