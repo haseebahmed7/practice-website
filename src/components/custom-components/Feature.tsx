@@ -1,3 +1,4 @@
+"use client";
 export const Feature = () => {
   return (
     <section className="relative bg-white py-20">
